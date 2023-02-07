@@ -1,0 +1,7 @@
+D:\Programozás\C#1.13.1-2022\8.Feladat\bin\Debug\8.Feladat.exe.config
+D:\Programozás\C#1.13.1-2022\8.Feladat\bin\Debug\8.Feladat.exe
+D:\Programozás\C#1.13.1-2022\8.Feladat\bin\Debug\8.Feladat.pdb
+D:\Programozás\C#1.13.1-2022\8.Feladat\obj\Debug\8.Feladat.csproj.AssemblyReference.cache
+D:\Programozás\C#1.13.1-2022\8.Feladat\obj\Debug\8.Feladat.csproj.CoreCompileInputs.cache
+D:\Programozás\C#1.13.1-2022\8.Feladat\obj\Debug\8.Feladat.exe
+D:\Programozás\C#1.13.1-2022\8.Feladat\obj\Debug\8.Feladat.pdb
