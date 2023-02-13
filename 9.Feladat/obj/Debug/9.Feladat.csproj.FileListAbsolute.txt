@@ -1,6 +1,0 @@
-D:\Programozás\C#1.13.1-2022\9.Feladat\bin\Debug\9.Feladat.exe.config
-D:\Programozás\C#1.13.1-2022\9.Feladat\bin\Debug\9.Feladat.exe
-D:\Programozás\C#1.13.1-2022\9.Feladat\bin\Debug\9.Feladat.pdb
-D:\Programozás\C#1.13.1-2022\9.Feladat\obj\Debug\9.Feladat.csproj.CoreCompileInputs.cache
-D:\Programozás\C#1.13.1-2022\9.Feladat\obj\Debug\9.Feladat.exe
-D:\Programozás\C#1.13.1-2022\9.Feladat\obj\Debug\9.Feladat.pdb

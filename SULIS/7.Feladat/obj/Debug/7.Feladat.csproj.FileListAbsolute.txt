@@ -1,0 +1,14 @@
+D:\Programozás\C#1.13.1-2022\7.Feladat\bin\Debug\7.Feladat.exe.config
+D:\Programozás\C#1.13.1-2022\7.Feladat\bin\Debug\7.Feladat.exe
+D:\Programozás\C#1.13.1-2022\7.Feladat\bin\Debug\7.Feladat.pdb
+D:\Programozás\C#1.13.1-2022\7.Feladat\obj\Debug\7.Feladat.csproj.CoreCompileInputs.cache
+D:\Programozás\C#1.13.1-2022\7.Feladat\obj\Debug\7.Feladat.exe
+D:\Programozás\C#1.13.1-2022\7.Feladat\obj\Debug\7.Feladat.pdb
+D:\Programozás\C#1.13.1-2022\7.Feladat\obj\Debug\7.Feladat.csproj.AssemblyReference.cache
+D:\Programozás\C#1.13.1-2022\SULIS\7.Feladat\bin\Debug\7.Feladat.exe.config
+D:\Programozás\C#1.13.1-2022\SULIS\7.Feladat\bin\Debug\7.Feladat.exe
+D:\Programozás\C#1.13.1-2022\SULIS\7.Feladat\bin\Debug\7.Feladat.pdb
+D:\Programozás\C#1.13.1-2022\SULIS\7.Feladat\obj\Debug\7.Feladat.csproj.AssemblyReference.cache
+D:\Programozás\C#1.13.1-2022\SULIS\7.Feladat\obj\Debug\7.Feladat.csproj.CoreCompileInputs.cache
+D:\Programozás\C#1.13.1-2022\SULIS\7.Feladat\obj\Debug\7.Feladat.exe
+D:\Programozás\C#1.13.1-2022\SULIS\7.Feladat\obj\Debug\7.Feladat.pdb

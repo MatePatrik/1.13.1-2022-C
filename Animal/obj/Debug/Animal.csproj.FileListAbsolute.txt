@@ -1,8 +1,0 @@
-C:\Programozás\1.13.1-2022-C\Animal\bin\Debug\Animal.exe.config
-C:\Programozás\1.13.1-2022-C\Animal\bin\Debug\Animal.exe
-C:\Programozás\1.13.1-2022-C\Animal\bin\Debug\Animal.pdb
-C:\Programozás\1.13.1-2022-C\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
-C:\Programozás\1.13.1-2022-C\Animal\obj\Debug\Animal.csproj.SuggestedBindingRedirects.cache
-C:\Programozás\1.13.1-2022-C\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
-C:\Programozás\1.13.1-2022-C\Animal\obj\Debug\Animal.exe
-C:\Programozás\1.13.1-2022-C\Animal\obj\Debug\Animal.pdb

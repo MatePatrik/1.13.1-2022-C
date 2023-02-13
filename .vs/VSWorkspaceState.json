@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SULIS",
+    "\\SULIS\\3.Feladat",
+    "\\SULIS\\6.Feladat"
   ],
+  "SelectedNode": "\\SULIS\\3.Feladat\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

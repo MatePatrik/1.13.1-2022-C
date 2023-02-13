@@ -1,0 +1,7 @@
+D:\Programozás\C#1.13.1-2022\SULIS\3.Feladat\bin\Debug\3.Feladat.exe.config
+D:\Programozás\C#1.13.1-2022\SULIS\3.Feladat\bin\Debug\3.Feladat.exe
+D:\Programozás\C#1.13.1-2022\SULIS\3.Feladat\bin\Debug\3.Feladat.pdb
+D:\Programozás\C#1.13.1-2022\SULIS\3.Feladat\obj\Debug\3.Feladat.csproj.CoreCompileInputs.cache
+D:\Programozás\C#1.13.1-2022\SULIS\3.Feladat\obj\Debug\3.Feladat.exe
+D:\Programozás\C#1.13.1-2022\SULIS\3.Feladat\obj\Debug\3.Feladat.pdb
+D:\Programozás\C#1.13.1-2022\SULIS\3.Feladat\obj\Debug\3.Feladat.csproj.AssemblyReference.cache
