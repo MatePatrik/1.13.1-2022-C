@@ -1,0 +1,8 @@
+C:\Users\mate.patrik\source\repos\1.13.1-2022-C\SULIS\15.Feladat\bin\Debug\15.Feladat.exe.config
+C:\Users\mate.patrik\source\repos\1.13.1-2022-C\SULIS\15.Feladat\bin\Debug\15.Feladat.exe
+C:\Users\mate.patrik\source\repos\1.13.1-2022-C\SULIS\15.Feladat\bin\Debug\15.Feladat.pdb
+C:\Users\mate.patrik\source\repos\1.13.1-2022-C\SULIS\15.Feladat\obj\Debug\Számológép.csproj.AssemblyReference.cache
+C:\Users\mate.patrik\source\repos\1.13.1-2022-C\SULIS\15.Feladat\obj\Debug\Számológép.csproj.SuggestedBindingRedirects.cache
+C:\Users\mate.patrik\source\repos\1.13.1-2022-C\SULIS\15.Feladat\obj\Debug\Számológép.csproj.CoreCompileInputs.cache
+C:\Users\mate.patrik\source\repos\1.13.1-2022-C\SULIS\15.Feladat\obj\Debug\15.Feladat.exe
+C:\Users\mate.patrik\source\repos\1.13.1-2022-C\SULIS\15.Feladat\obj\Debug\15.Feladat.pdb
